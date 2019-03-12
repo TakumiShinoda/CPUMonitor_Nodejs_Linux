@@ -1,0 +1,14 @@
+{
+    "name": "cpumem",
+    "version": "0.0.1",
+    "repository": {},
+    "engines": {
+        "node": "8.x"
+    },
+    "dependencies": {
+        "child-process": "^1.0.2"
+    },
+    "devDependencies": {
+        "os": "^0.1.1"
+    }
+}
